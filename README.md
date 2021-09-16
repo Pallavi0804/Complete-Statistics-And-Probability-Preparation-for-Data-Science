@@ -1,5 +1,8 @@
 # Complete Statistics & Probability Preparation for Data Science
 
+
+> **Table of Content**
+
 |Sr No.|Content|
 |---|---|
 |1|Introduction to Statistics|
@@ -29,6 +32,18 @@
 |25|Central Limit Theorem|
 |26|Chebyshev's Inequality|
 |27|Handling Outliers|
+
+> **Tree of Index**
+
+1. Introduction to Statistics
+2. Types of Statistics
+  2.1 Descriptive Stats
+  2.2 Inferential Stats
+3. Measure of Central Tendency
+  3.1 Mean
+  3.2 Median
+  3.3 Mode
+  
 
 
 
