@@ -1,1 +1,1 @@
-# Complete-Statistics & Probability-Preparation-for-Data-Science
+# Complete Statistics & Probability Preparation for Data Science
