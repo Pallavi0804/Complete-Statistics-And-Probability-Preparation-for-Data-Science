@@ -31,7 +31,7 @@
 |24|Chebyshev's Inequality|
 |25|Handling Outliers|
 
-> ###**Tree of Index**
+> ### **Tree of Index**
 
 1. Introduction to Statistics
 2. Types of Statistics
