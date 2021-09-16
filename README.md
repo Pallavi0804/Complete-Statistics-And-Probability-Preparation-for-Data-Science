@@ -37,12 +37,12 @@
 
 1. Introduction to Statistics
 2. Types of Statistics
-  2.1 Descriptive Stats
-  2.2 Inferential Stats
+   2.1 Descriptive Stats
+   2.2 Inferential Stats
 3. Measure of Central Tendency
-  3.1 Mean
-  3.2 Median
-  3.3 Mode
+   3.1 Mean
+   3.2 Median
+   3.3 Mode
   
 
 
