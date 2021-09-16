@@ -5,30 +5,30 @@
 |1|Introduction to Statistics|
 |2|Types of Statistics|
 |3|Measure of Central Tendency|
-|3|Measure of Dispersion|
-|3|Measure of Shape|
-|3|Introduction to Probability|
-||Permutation & Combinations|
-|3|Addictive Rule|
-|3|Multiplicative Rule|
-|3|Discrete & Contineous Random Variable|
-|3|Discrete & Contineous Sample Space|
-|3|Conditional Probability|
-|3|Discrete Probability Distribution|
-|3|Contineous Probability Distribution|
-|3|Statistical Inference|
-|3|Sampling Vs Population|
-|3|Types of Sampling Technique|
-|3|Hypothesis Testing|
-|3|Gaussion Distribution / Normal Distribution |
-|3||Right & Left Skewed Distribution
-|3||Log Normal Distribution
-|3|Covariance|
-|3|Pearson Correlation Coefficient|
-|3|Spearman's Rank Correlation Coefficient|
-||Central Limit Theorem|
-||Chebyshev's Inequality|
-||Handling Outliers|
+|4|Measure of Dispersion|
+|5|Measure of Shape|
+|6|Introduction to Probability|
+|7|Permutation & Combinations|
+|8|Addictive Rule|
+|9|Multiplicative Rule|
+|10|Discrete & Contineous Random Variable|
+|11|Discrete & Contineous Sample Space|
+|12|Conditional Probability|
+|13|Discrete Probability Distribution|
+|14|Contineous Probability Distribution|
+|15|Statistical Inference|
+|16|Sampling Vs Population|
+|17|Types of Sampling Technique|
+|18|Hypothesis Testing|
+|19|Gaussion Distribution / Normal Distribution |
+|20||Right & Left Skewed Distribution
+|21||Log Normal Distribution
+|22|Covariance|
+|23|Pearson Correlation Coefficient|
+|24|Spearman's Rank Correlation Coefficient|
+|25|Central Limit Theorem|
+|26|Chebyshev's Inequality|
+|27|Handling Outliers|
 
 
 
