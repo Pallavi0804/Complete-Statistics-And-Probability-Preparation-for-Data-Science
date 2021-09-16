@@ -20,9 +20,9 @@
 |16|Sampling Vs Population|
 |17|Types of Sampling Technique|
 |18|Hypothesis Testing|
-|19|Gaussion Distribution / Normal Distribution |
-|20||Right & Left Skewed Distribution
-|21||Log Normal Distribution
+|19|Gaussion Distribution / Normal Distribution|
+|20|Right & Left Skewed Distribution|
+|21|Log Normal Distribution|
 |22|Covariance|
 |23|Pearson Correlation Coefficient|
 |24|Spearman's Rank Correlation Coefficient|
