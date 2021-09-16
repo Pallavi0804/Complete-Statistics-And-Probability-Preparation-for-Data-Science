@@ -1,7 +1,7 @@
 # Complete Statistics & Probability Preparation for Data Science
 
 
-> **Table of Content**
+> ### **Table of Content**
 
 |Sr No.|Content|
 |---|---|
@@ -31,7 +31,7 @@
 |24|Chebyshev's Inequality|
 |25|Handling Outliers|
 
-> **Tree of Index**
+> ###**Tree of Index**
 
 1. Introduction to Statistics
 2. Types of Statistics
@@ -89,12 +89,20 @@
          └─── 14.3.8 Chi-squared Distribution         
          └─── 14.3.9 F Distribution   
 └─── 15. Statistical Inference    
-└─── 16. Sampling Vs Population|
+└─── 16. Sampling Vs Population
 └─── 17. Types of Sampling Technique
      │   17.1 Random Sampling Technique
      │   17.2 Stratified Sampling Technique        
      │   17.3 Systematic Sampling Technique
-     │   17.3 Cluster Sampling Technique
+     │   17.4 Cluster Sampling Technique
+└─── 18. Hypothesis Testing
+└─── 19. Gaussion Distribution / Normal Distribution
+└─── 20. Covariance
+└─── 21. Pearson Correlation Coefficient
+└─── 22. Spearman's Rank Correlation Coefficient
+└─── 23. Central Limit Theorem
+└─── 24. Chebyshev's Inequality
+└─── 25. Handling Outliers
       
 ```
   
