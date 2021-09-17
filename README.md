@@ -23,7 +23,6 @@
 |15|Statistical Inference|
 |17|Types of Sampling Technique|
 |18|Hypothesis Testing|
-|19|Gaussion Distribution / Normal Distribution|
 |20|Covariance|
 |21|Pearson Correlation Coefficient|
 |22|Spearman's Rank Correlation Coefficient|
@@ -80,7 +79,7 @@
      │   14.2 Cumulative Distribution Function CDF        
      │   14.3 Types of Contineous Distributions     
          └─── 14.3.1 Continuous Uniform Distribution
-         └─── 14.3.2 Normal Distribution
+         └─── 14.3.2 Gaussion Distribution / Normal Distribution
          └─── 14.3.3 Log-Normal Distribution
          └─── 14.3.4 Exponential Distribution
          └─── 14.3.5 Gamma Distribution
