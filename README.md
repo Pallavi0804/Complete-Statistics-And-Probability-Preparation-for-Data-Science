@@ -76,7 +76,7 @@
          └─── 13.3.3 Negative Binomial Distribution
          └─── 13.3.4 Poisson Distribution
 └─── 14. Contineous Probability Distribution
-     │   14.1 Probability Mass Function PMF
+     │   14.1 Probability Density Function PDF
      │   14.2 Cumulative Distribution Function CDF        
      │   14.3 Types of Contineous Distributions     
          └─── 14.3.1 Continuous Uniform Distribution
