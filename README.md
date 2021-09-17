@@ -6,6 +6,7 @@
 |Sr No.|Content|
 |---|---|
 |1|Introduction to Statistics|
+|2|Sampling Vs Population|
 |2|Types of Statistics|
 |3|Measure of Central Tendency|
 |4|Measure of Dispersion|
@@ -20,7 +21,6 @@
 |13|Discrete Probability Distribution|
 |14|Contineous Probability Distribution|
 |15|Statistical Inference|
-|16|Sampling Vs Population|
 |17|Types of Sampling Technique|
 |18|Hypothesis Testing|
 |19|Gaussion Distribution / Normal Distribution|
