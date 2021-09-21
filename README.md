@@ -95,7 +95,6 @@
      │   17.3 Systematic Sampling Technique
      │   17.4 Cluster Sampling Technique
 └─── 18. Hypothesis Testing
-└─── 19. Gaussion Distribution / Normal Distribution
 └─── 20. Covariance
 └─── 21. Pearson Correlation Coefficient
 └─── 22. Spearman's Rank Correlation Coefficient
