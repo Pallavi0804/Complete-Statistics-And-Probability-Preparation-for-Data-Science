@@ -10,8 +10,7 @@
 |3|Descriptive Statistics|
 |4|Introduction to Probability|
 |5|Permutation & Combinations|
-|10|Discrete & Contineous Random Variable|
-|11|Discrete & Contineous Sample Space|
+|6|Discrete & Contineous Random Variable and Sample Space|
 |12|Conditional Probability|
 |13|Discrete Probability Distribution|
 |14|Contineous Probability Distribution|
@@ -49,8 +48,7 @@
         └─── |    4.1 Addictive Rule - Mutual/Non Mutual Exculusive 
         └─── |    4.2 Multiplicative Rule - Independent and Dependent Event
 └─── 5. Permutation & Combinations
-└─── 10. Discrete & Contineous Random Variable
-└─── 11. Discrete & Contineous Sample Space
+└─── 6. Discrete & Contineous Random Variable and Sample Space
 └─── 12. Conditional Probability
 └─── 13. Discrete Probability Distribution
      │   13.1 Probability Mass Function PMF
