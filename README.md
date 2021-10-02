@@ -8,9 +8,6 @@
 |1|Introduction to Statistics|
 |2|Sampling Vs Population|
 |3|Descriptive Statistics|
-|3|Measure of Central Tendency|
-|4|Measure of Dispersion|
-|5|Measure of Shape|
 |6|Introduction to Probability|
 |7|Permutation & Combinations|
 |8|Addictive Rule|
@@ -32,31 +29,24 @@
 
 > ### **Tree of Index**
 
-1. Introduction to Statistics
-2. Sampling Vs Population
-3. Measure of Central Tendency
-   3.1 Mean
-   3.2 Median
-   3.3 Mode
  ```
 |
 └─── 1. Introduction to Statistics
-└─── 2. Types of Statistics
-     │   2.1 Descriptive Stats
-     |   2.2 Inferential Stats   
-└─── 3. Measure of Central Tendency
-     │   3.1 Mean
-     |   3.2 Median
-     |   3.3 Mode
-└─── 4. Measure of Dispersion
-     │   4.1 Range
-     |   4.2 Variance
-     |   4.3 Standard Deviation
-     |   4.4 Z-Score
-     |   4.5 Quartiles : Percentile
-└─── 5. Measure of Shape
-     │   5.1 Skewness (Right & Left Skewed)
-     |   5.2 Kurtosis
+└─── 2. Sampling Vs Population  
+└─── 3. Descriptive Statistics
+     |   3.1 Measure of Central Tendency
+         └─── | 3.1 Mean
+         └─── | 3.2 Median
+         └─── | 3.3 Mode
+     |   3.2 Measure of Dispersion
+         └─── |   4.1 Range
+         └─── |   4.2 Variance
+         └─── |   4.3 Standard Deviation
+         └─── |   4.4 Z-Score
+         └─── |   4.5 Quartiles : Percentile
+     |   3.3 Measure of Shape
+         └─── |   5.1 Skewness (Right & Left Skewed)
+         └─── |   5.2 Kurtosis
 └─── 6. Introduction to Probability
 └─── 7. Permutation & Combinations
 └─── 8. Addictive Rule
