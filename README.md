@@ -7,7 +7,7 @@
 |---|---|
 |1|Introduction to Statistics|
 |2|Sampling Vs Population|
-|2|Types of Statistics|
+|3|Descriptive Statistics|
 |3|Measure of Central Tendency|
 |4|Measure of Dispersion|
 |5|Measure of Shape|
@@ -33,9 +33,7 @@
 > ### **Tree of Index**
 
 1. Introduction to Statistics
-2. Types of Statistics
-   2.1 Descriptive Stats
-   2.2 Inferential Stats
+2. Sampling Vs Population
 3. Measure of Central Tendency
    3.1 Mean
    3.2 Median
