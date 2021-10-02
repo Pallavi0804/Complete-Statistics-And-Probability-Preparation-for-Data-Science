@@ -8,8 +8,8 @@
 |1|Introduction to Statistics and its Types|
 |2|Sampling Vs Population|
 |3|Descriptive Statistics|
-|6|Introduction to Probability|
-|7|Permutation & Combinations|
+|4|Introduction to Probability|
+|5|Permutation & Combinations|
 |10|Discrete & Contineous Random Variable|
 |11|Discrete & Contineous Sample Space|
 |12|Conditional Probability|
@@ -48,7 +48,7 @@
 └─── 4. Introduction to Probability
         └─── |    4.1 Addictive Rule - Mutual/Non Mutual Exculusive 
         └─── |    4.2 Multiplicative Rule - Independent and Dependent Event
-└─── 7. Permutation & Combinations
+└─── 5. Permutation & Combinations
 └─── 10. Discrete & Contineous Random Variable
 └─── 11. Discrete & Contineous Sample Space
 └─── 12. Conditional Probability
