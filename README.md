@@ -10,8 +10,6 @@
 |3|Descriptive Statistics|
 |6|Introduction to Probability|
 |7|Permutation & Combinations|
-|8|Addictive Rule|
-|9|Multiplicative Rule|
 |10|Discrete & Contineous Random Variable|
 |11|Discrete & Contineous Sample Space|
 |12|Conditional Probability|
@@ -47,10 +45,10 @@
      |   3.3 Measure of Shape
          └─── |   5.1 Skewness (Right & Left Skewed)
          └─── |   5.2 Kurtosis
-└─── 6. Introduction to Probability
+└─── 4. Introduction to Probability
+        └─── |    4.1 Addictive Rule - Mutual/Non Mutual Exculusive 
+        └─── |    4.2 Multiplicative Rule - Independent and Dependent Event
 └─── 7. Permutation & Combinations
-└─── 8. Addictive Rule
-└─── 9. Multiplicative Rule
 └─── 10. Discrete & Contineous Random Variable
 └─── 11. Discrete & Contineous Sample Space
 └─── 12. Conditional Probability
