@@ -5,7 +5,7 @@
 
 |Sr No.|Content|
 |---|---|
-|1|Introduction to Statistics|
+|1|Introduction to Statistics and its Types|
 |2|Sampling Vs Population|
 |3|Descriptive Statistics|
 |6|Introduction to Probability|
@@ -31,7 +31,7 @@
 
  ```
 |
-└─── 1. Introduction to Statistics
+└─── 1. Introduction to Statistics and its Types
 └─── 2. Sampling Vs Population  
 └─── 3. Descriptive Statistics
      |   3.1 Measure of Central Tendency
